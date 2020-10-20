@@ -3,7 +3,8 @@
 
 
 Se realiza la programación de una placa stm32f103c8 para el control de 2 motores de corriente continua.
-La idea es implementar el codigo en dos placas controladoras. 
+La idea es implementar el codigo en dos placas controladoras para poder controlar un total de 4 motores.
+
 Perifericos que se utilizan: 
 
 -	TIMER 1: Como base de muestreo para los encoders de los motores
